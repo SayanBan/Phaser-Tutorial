@@ -8,4 +8,4 @@ Stable release: 3.20.0 / 12 October 2019
 
 [Learn from the official docs](https://phaser.io/learn)
 
-[Learn the codecademy course for phaser.js free here](https://github.com/SayanBan/Phaser-Tutorial/Day 1)
+[Learn the codecademy course for phaser.js free here](https://github.com/SayanBan/Phaser-Tutorial/tree/master/Day%201)
